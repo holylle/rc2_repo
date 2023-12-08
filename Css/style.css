@@ -1,0 +1,23 @@
+
+
+
+
+
+
+.purchase{
+    margin-top: 66px;
+}
+
+.price_btn{
+    width: 120px;
+    height: 40px;
+    flex-shrink: 0;
+    background-color: var(--button_color);
+    border-radius: 6px;
+    text-align: center;
+}
+
+.price{
+    display: flex;
+    flex-direction: column;
+}
